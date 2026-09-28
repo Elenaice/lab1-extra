@@ -10,7 +10,6 @@ int apples_left(int n, int k) {
     return k % n;
 }
 
-<<<<<<< HEAD
 int main(void) {
     int n, k;
 
@@ -25,5 +24,3 @@ int main(void) {
 int km(int m){
     return m / 1000;
 }
-=======
->>>>>>> main
