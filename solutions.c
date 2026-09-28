@@ -14,3 +14,7 @@ int main(void) {
 
     return 0;
 }
+
+int km(int m){
+    return m / 1000;
+}
